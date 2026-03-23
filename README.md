@@ -14,8 +14,8 @@ The model incorporates a frequency-severity framework and evaluates how deductib
 
 2. Monte Carlo Simulation
 
-\Generated aggregate losses: $S = \sum_{i=1}^{n} X_i$
+  Generated aggregate losses: $S = \sum_{i=1}^{n} X_i$
 
-\where: $𝑁$: number of claims $X_i$: claim severity
+  where: $𝑁$: number of claims $X_i$: claim severity
 
 3. Insurance Contract Structure : Containing Deductible, Policy Limit, Reinsurance
