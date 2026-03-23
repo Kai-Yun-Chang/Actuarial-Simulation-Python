@@ -24,40 +24,8 @@ Exponential
 
 Simulated thousands of policy years
 
-Generated aggregate losses:
-
-𝑆
-=
-∑
-𝑖
-=
-1
-𝑁
-𝑋
-𝑖
-S=
-i=1
-∑
-N
-	​
-
-X
-i
-	​
-
-
-where:
-
-𝑁
-N: number of claims
-
-𝑋
-𝑖
-X
-i
-	​
-
-: claim severity
+Generated aggregate losses: $S = \sum_{i=1}^{n} X_i$
+where: $𝑁$: number of claims $X_i$: claim severity
 
 3. Insurance Contract Structure
 
